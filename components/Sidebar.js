@@ -28,8 +28,17 @@ function Sidebar() {
              <button className="flex items-center space-x-2 hover:text-white">
             <RssIcon className="h-5 w-5" />
             <p>Your episodes</p>
-             </button>
-             
+            </button>
+            <hr className="border-t-[0.1px]" />
+            <p className="cursor-pointer hover: text-white">Playlist here</p>
+            <p className="cursor-pointer hover: text-white">Playlist here</p>
+            <p className="cursor-pointer hover: text-white">Playlist here</p>
+            <p className="cursor-pointer hover: text-white">Playlist here</p>
+            <p className="cursor-pointer hover: text-white">Playlist here</p>
+            <p className="cursor-pointer hover: text-white">Playlist here</p>
+            <p className="cursor-pointer hover: text-white">Playlist here</p>
+            <p className="cursor-pointer hover: text-white">Playlist here</p>
+            <p className="cursor-pointer hover: text-white">Playlist here</p>
         </div>
     </div>
     )
